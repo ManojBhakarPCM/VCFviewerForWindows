@@ -1,0 +1,10 @@
+E:\myProjects\Visual Studio 2015\VB.NET\vcfViewer\vcfViewer\bin\Debug\vcfViewer.exe
+E:\myProjects\Visual Studio 2015\VB.NET\vcfViewer\vcfViewer\bin\Debug\vcfViewer.pdb
+E:\myProjects\Visual Studio 2015\VB.NET\vcfViewer\vcfViewer\bin\Debug\vcfViewer.xml
+E:\myProjects\Visual Studio 2015\VB.NET\vcfViewer\vcfViewer\obj\Debug\vcfViewer.vbprojResolveAssemblyReference.cache
+E:\myProjects\Visual Studio 2015\VB.NET\vcfViewer\vcfViewer\obj\Debug\vcfViewer.Form1.resources
+E:\myProjects\Visual Studio 2015\VB.NET\vcfViewer\vcfViewer\obj\Debug\vcfViewer.Resources.resources
+E:\myProjects\Visual Studio 2015\VB.NET\vcfViewer\vcfViewer\obj\Debug\vcfViewer.vbproj.GenerateResource.Cache
+E:\myProjects\Visual Studio 2015\VB.NET\vcfViewer\vcfViewer\obj\Debug\vcfViewer.exe
+E:\myProjects\Visual Studio 2015\VB.NET\vcfViewer\vcfViewer\obj\Debug\vcfViewer.xml
+E:\myProjects\Visual Studio 2015\VB.NET\vcfViewer\vcfViewer\obj\Debug\vcfViewer.pdb
